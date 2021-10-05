@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deckofcards/static/css/main.567c4d89.chunk.css",
+    "main.js": "/deckofcards/static/js/main.6a6fe983.chunk.js",
+    "main.js.map": "/deckofcards/static/js/main.6a6fe983.chunk.js.map",
+    "runtime-main.js": "/deckofcards/static/js/runtime-main.cd91a407.js",
+    "runtime-main.js.map": "/deckofcards/static/js/runtime-main.cd91a407.js.map",
+    "static/js/2.d615ee8b.chunk.js": "/deckofcards/static/js/2.d615ee8b.chunk.js",
+    "static/js/2.d615ee8b.chunk.js.map": "/deckofcards/static/js/2.d615ee8b.chunk.js.map",
+    "index.html": "/deckofcards/index.html",
+    "static/css/main.567c4d89.chunk.css.map": "/deckofcards/static/css/main.567c4d89.chunk.css.map",
+    "static/js/2.d615ee8b.chunk.js.LICENSE.txt": "/deckofcards/static/js/2.d615ee8b.chunk.js.LICENSE.txt",
+    "static/media/backCardImg.a88b854c.png": "/deckofcards/static/media/backCardImg.a88b854c.png",
+    "static/media/club.685245d3.png": "/deckofcards/static/media/club.685245d3.png",
+    "static/media/diamond.24d3b3e2.png": "/deckofcards/static/media/diamond.24d3b3e2.png",
+    "static/media/heart.20165ed9.png": "/deckofcards/static/media/heart.20165ed9.png",
+    "static/media/spade.7b0c2f88.png": "/deckofcards/static/media/spade.7b0c2f88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd91a407.js",
+    "static/js/2.d615ee8b.chunk.js",
+    "static/css/main.567c4d89.chunk.css",
+    "static/js/main.6a6fe983.chunk.js"
+  ]
+}
